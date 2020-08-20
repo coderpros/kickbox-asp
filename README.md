@@ -16,7 +16,7 @@ Dim verificationResponse
 
 With KickBox
     .ClientApiKey = KICKBOX_API_KEY
-    Set verificationResponse = .VerifyBulkEmail(string *emailAddress*))
+    Set verificationResponse = .VerifySingleEmail(string emailAddress))
 End With
 ```
 
