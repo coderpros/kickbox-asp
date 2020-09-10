@@ -74,6 +74,3 @@ End With
 [twitter-follow-url]: https://img.shields.io/twitter/follow/coderpronet?style=social
 [github-shield]: https://img.shields.io/github/followers/coderpros?label=Follow&style=social
 [github-follow-url]: https://img.shields.io/twitter/follow/coderpronet?style=social
-
-[product-screenshot]: images/screenshot.png
-[project-logo]: 
