@@ -17,7 +17,7 @@ A [KickBox.io](https://kickbox.io) API wrapper for Classic ASP.
 
 - Create a free account at [Kickbox.io](https://kickbox.io).
 - Sign up for an API Key.
-- Update the KICKBOX_API_KEY constant in ~/Includes.config file to use your API Key.
+- Update the KICKBOX_API_KEY constant in ~/Includes/config.asp file to use your API Key.
 
 ### Verify a single email address
 
